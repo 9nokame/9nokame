@@ -9,6 +9,11 @@
 [![currently](https://skillicons.dev/icons?i=js,html,css,aws,vscode,git,github,md,docker,linux,nginx,nodejs,npm,postman,powershell,rabbitmq,redis,postgres,supabase,py,tensorflow,sklearn,c,java,figma,haskell,kotlin,dart,flutter,react)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ##
