@@ -10,3 +10,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+##
+
+Made with ❤️ and a bit of pacman © 2026
