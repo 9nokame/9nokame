@@ -1,6 +1,6 @@
 <!--
-맘을 있는 그대로 전부 내주고 싶어
-어설픈 내 사랑을 전하고파 (show you what I've got)
+You'd see how much I adore ya, 'dore ya
+But that's something you'll never know
 -->
 
 <picture>
