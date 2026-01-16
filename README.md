@@ -1,3 +1,8 @@
+<!--
+맘을 있는 그대로 전부 내주고 싶어
+어설픈 내 사랑을 전하고파 (show you what I've got)
+-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9nokame/9nokame/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9nokame/9nokame/output/pacman-contribution-graph.svg">
